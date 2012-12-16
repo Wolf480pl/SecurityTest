@@ -35,7 +35,7 @@ public class AppClass {
 		} catch (SecurityException e) {
 			e.printStackTrace();
 		}
-		new SecurityManager();
+		new SecurityManager();	//Check if we are stoll allowed to do this.
 	}
 
 }
