@@ -3,3 +3,7 @@ Simple example how to use java security with custom policy to sandbox plugins.
 1.Run mvn package
 2.Copy jars from SecurityTestApp/target and SecurityTestPlugin/target to the folder where this readme is.
 3.Run testallow.sh or testdeny.sh and watch the console.
+
+Copyright (c) 2012-2013 Wolf480pl (wolf480@interia.pl)
+
+SecurityTest is licensed under MIT license. Please see LICENSE.txt for details.
